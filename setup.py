@@ -13,7 +13,7 @@ setup(
 
     author='Rich Barton',
 
-    author_email='rbart65@gmail.com',
+    author_email='joshua.s.burns@outlook.com',
 
     install_requires=['requests>=2.0.0,<3.0.0'],
 
@@ -21,7 +21,7 @@ setup(
 
     tests_require=['nose', 'requests_mock'],
 
-    url='https://github.com/rbarton65/espnff',
+    url='https://github.com/snrubauhsoj/espnff',
 
     classifiers=[
         'Natural Language :: English',
